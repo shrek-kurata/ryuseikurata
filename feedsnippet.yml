@@ -1,6 +1,6 @@
 - urls:
-    - https://zenn.dev/ikawaha/feed
-    - https://qiita.com/ikawaha/feed
+    - https://zenn.dev/shrek13/feed
+    - https://qiita.com/ryuseikurata/feed
   template: |-
     {{range . -}}
       * {{ if eq .Header.FeedLink "https://zenn.dev/shrek13/feed" -}}
