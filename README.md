@@ -1,6 +1,3 @@
-### MyBlog 👋
-https://shrek-kurata.com/
-
 <a href="https://github-readme-stats.vercel.app/api?username=ryuseikurata&count_private=true&theme=dark">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ryuseikurata&count_private=true&theme=dark" />
 </a>
