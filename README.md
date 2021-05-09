@@ -1,10 +1,5 @@
 ### MyBlog 👋
 https://shrek-kurata.com/
 
-
-# Recent Posts
-
-<!--[START github.com/ikawaha/feedsnippet]--><!--[2021-02-27T00:04:10Z]-->
-* 
-<!--[END github.com/ikawaha/feedsnippet]-->
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuseikurata&layout=compact&theme=dark)
 
