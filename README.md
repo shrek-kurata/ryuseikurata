@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [PoliPoli](https://polipoli-web.com/)
 
-- 🌱 I’m currently learning **julia, rust, ML**
+- 🌱 I’m currently learning ** rust, ML**
 
 - 📝 I regularly write articles on [https://shrek-kurata.com/](https://shrek-kurata.com/)
 
